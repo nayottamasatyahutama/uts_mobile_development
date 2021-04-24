@@ -1,0 +1,7 @@
+#Fri Apr 23 13:38:18 WIB 2021
+base.0=/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex

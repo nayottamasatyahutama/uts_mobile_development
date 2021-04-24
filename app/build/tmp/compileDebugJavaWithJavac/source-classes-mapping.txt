@@ -1,0 +1,2 @@
+com/nayottama/catatanpenjualansederhana/BuildConfig.java
+ com.nayottama.catatanpenjualansederhana.BuildConfig

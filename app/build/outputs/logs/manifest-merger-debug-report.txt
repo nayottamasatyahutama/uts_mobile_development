@@ -1,0 +1,296 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/dacf6caa82b7748d89197a3a38394e0c/navigation-ui-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/da20a31f2542ca3dce0587d06c6465e0/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/9522fc4b4b45ce049e8dcb80a37b11ac/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/1cf8994072ed916e90c677f875af805c/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/18f48aaf1ab635238dbe3f8a157b8821/jetified-anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/a39651c79a8c729988b375e7ea96f678/jetified-appcompatV7-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/ce2174822ccc8cea06ba4c8dec95f39d/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/7267485451ce7ddf51d3a10c1563b743/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/17dd9669c25d8a421fedfadac8616963/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/39a36b66c6e76a47708563a706b87914/jetified-anko-support-v4-commons-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/999d8f5106c0c792a477d9f2f49b994b/jetified-supportV4-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3032318736aa8db8594553702cfa1c7b/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/dbd997d2186615f746977466f9234be7/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/84b52b4fe08e71bbb67f21349b7e8afa/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/af7d37fa8a43ec2f9e290038e4934b9e/lifecycle-extensions-2.1.0/AndroidManifest.xml:17:1-25:12
+MERGED from [org.jetbrains.anko:anko-sdk25-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/e9d373f1803eb59a2f339e17608618b9/jetified-anko-sdk25-coroutines-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/b48835a53e77e63a116815e6446b445d/jetified-anko-commons-0.10.8/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/78263ae851f59ba2ac7156803bcb6467/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/e68a9424254eee1a6f82adacf310ec71/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/815074299b71f63dce5f2a97d2d21cf2/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/77089fd1ba8bf5517c45d3c83b01230d/jetified-commons-base-0.10.8/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/465f0858eaea0299e058fdca0fd65851/navigation-common-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/0bbf8254c0625b5317496f5dc07ad453/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/64dd5fdd6550c1f642b550c1fe1cfd26/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/2b4db0bf0666c34b1bc523cf05e6404a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d5650789c9f92ca0ebb83883c6a0b046/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/4e4ce2f92372a4115a376822389ff956/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/927e20b95426a1e2871e9dee56481e2a/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d62d07501d800321c8c69a19a8451f5b/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/600ccc6b1bc78eee0246cde67e4048bd/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6eeb12243c8e22a4e61b928e4c37fd3a/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/f8ba508192e0973bb375e86a3e168321/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/29ce8af8242f4e2c75faf4677b90a4ee/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d5bb0efb8b3d009fefe3defe317358db/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/0d82c515694eaaf53e08f8707e16cdce/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/a912b255fee194282b1b7f60e6b7b521/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/f2e30f7a739886282e4b4ce5b4fd76a1/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/189f60d93dd7330eb3642d4203df078e/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/4b2ff6e3063fd60a121c527ee89c5ed4/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6a17868b7ca9c0868711caac80132dd3/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/79c33b9d32c7a5b83766a23ddbe9bdfe/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/229808383e537bf4d68a74f49d429050/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/fe16bf712cebc531a64eb15ce7ac84dc/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8fb6f3edb4bffda69066004dc3e187d4/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/799a75db32cef13e1f7dafe1a6c76a82/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/cec0f46f35098226695fd45d3a7fccff/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3622c634232b448dc2c59da9419bde59/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8c684a6238dc3504852fa73d107ccfbf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/830b1838a4b4d116cd678485e3289892/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/5b7e2a780c1b97f8610dfe5442e48034/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8e0c25e6f3abf580a2b1ee38a41b6c99/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3767bfdf888e88aa39f9b1d58f5bf959/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:4:5-54
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:8:5-31:19
+MERGED from [com.google.android.material:material:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/9522fc4b4b45ce049e8dcb80a37b11ac/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/9522fc4b4b45ce049e8dcb80a37b11ac/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/1cf8994072ed916e90c677f875af805c/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/1cf8994072ed916e90c677f875af805c/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/18f48aaf1ab635238dbe3f8a157b8821/jetified-anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/18f48aaf1ab635238dbe3f8a157b8821/jetified-anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/17dd9669c25d8a421fedfadac8616963/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/17dd9669c25d8a421fedfadac8616963/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/39a36b66c6e76a47708563a706b87914/jetified-anko-support-v4-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/39a36b66c6e76a47708563a706b87914/jetified-anko-support-v4-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/af7d37fa8a43ec2f9e290038e4934b9e/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/af7d37fa8a43ec2f9e290038e4934b9e/lifecycle-extensions-2.1.0/AndroidManifest.xml:22:5-23:19
+MERGED from [org.jetbrains.anko:anko-sdk25-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/e9d373f1803eb59a2f339e17608618b9/jetified-anko-sdk25-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-sdk25-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/e9d373f1803eb59a2f339e17608618b9/jetified-anko-sdk25-coroutines-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/b48835a53e77e63a116815e6446b445d/jetified-anko-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/b48835a53e77e63a116815e6446b445d/jetified-anko-commons-0.10.8/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6a17868b7ca9c0868711caac80132dd3/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6a17868b7ca9c0868711caac80132dd3/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/79c33b9d32c7a5b83766a23ddbe9bdfe/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/79c33b9d32c7a5b83766a23ddbe9bdfe/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:22:5-28:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6a17868b7ca9c0868711caac80132dd3/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:12:9-54
+	tools:targetApi
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:16:9-28
+	android:icon
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:9:9-36
+	android:theme
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:14:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:15:9-44
+activity#com.nayottama.catatanpenjualansederhana.activity.report.ReportActivity
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:17:9-116
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:17:19-104
+activity#com.nayottama.catatanpenjualansederhana.activity.penjualan.PenjualanBarang
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:18:9-111
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:18:19-108
+activity#com.nayottama.catatanpenjualansederhana.activity.data_barang.DataBarangActivity
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:19:9-116
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:19:19-113
+activity#com.nayottama.catatanpenjualansederhana.activity.register.RegisterActivity
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:20:9-111
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:20:19-108
+activity#com.nayottama.catatanpenjualansederhana.activity.data_barang._add.AddBarangActivity
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:21:9-120
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:21:19-117
+activity#com.nayottama.catatanpenjualansederhana.activity.login.LoginActivity
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:22:9-29:20
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:22:19-102
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:23:13-28:29
+action#android.intent.action.VIEW
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:24:25-66
+action#android.intent.action.MAIN
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:27:27-74
+activity#com.nayottama.catatanpenjualansederhana.activity._main.MainActivity
+ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:30:9-104
+	android:name
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:30:19-101
+uses-sdk
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/dacf6caa82b7748d89197a3a38394e0c/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/dacf6caa82b7748d89197a3a38394e0c/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/da20a31f2542ca3dce0587d06c6465e0/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/da20a31f2542ca3dce0587d06c6465e0/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/9522fc4b4b45ce049e8dcb80a37b11ac/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/9522fc4b4b45ce049e8dcb80a37b11ac/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/1cf8994072ed916e90c677f875af805c/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/1cf8994072ed916e90c677f875af805c/jetified-anko-appcompat-v7-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/18f48aaf1ab635238dbe3f8a157b8821/jetified-anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-appcompat-v7-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/18f48aaf1ab635238dbe3f8a157b8821/jetified-anko-appcompat-v7-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/a39651c79a8c729988b375e7ea96f678/jetified-appcompatV7-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:appcompatV7-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/a39651c79a8c729988b375e7ea96f678/jetified-appcompatV7-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/ce2174822ccc8cea06ba4c8dec95f39d/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/ce2174822ccc8cea06ba4c8dec95f39d/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/7267485451ce7ddf51d3a10c1563b743/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/7267485451ce7ddf51d3a10c1563b743/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/17dd9669c25d8a421fedfadac8616963/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/17dd9669c25d8a421fedfadac8616963/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/39a36b66c6e76a47708563a706b87914/jetified-anko-support-v4-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-support-v4-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/39a36b66c6e76a47708563a706b87914/jetified-anko-support-v4-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/999d8f5106c0c792a477d9f2f49b994b/jetified-supportV4-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:supportV4-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/999d8f5106c0c792a477d9f2f49b994b/jetified-supportV4-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3032318736aa8db8594553702cfa1c7b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3032318736aa8db8594553702cfa1c7b/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/dbd997d2186615f746977466f9234be7/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/dbd997d2186615f746977466f9234be7/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/84b52b4fe08e71bbb67f21349b7e8afa/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/84b52b4fe08e71bbb67f21349b7e8afa/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/af7d37fa8a43ec2f9e290038e4934b9e/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/af7d37fa8a43ec2f9e290038e4934b9e/lifecycle-extensions-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:anko-sdk25-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/e9d373f1803eb59a2f339e17608618b9/jetified-anko-sdk25-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-sdk25-coroutines:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/e9d373f1803eb59a2f339e17608618b9/jetified-anko-sdk25-coroutines-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/b48835a53e77e63a116815e6446b445d/jetified-anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:anko-commons:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/b48835a53e77e63a116815e6446b445d/jetified-anko-commons-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/78263ae851f59ba2ac7156803bcb6467/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/78263ae851f59ba2ac7156803bcb6467/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/e68a9424254eee1a6f82adacf310ec71/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/e68a9424254eee1a6f82adacf310ec71/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/815074299b71f63dce5f2a97d2d21cf2/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/815074299b71f63dce5f2a97d2d21cf2/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/77089fd1ba8bf5517c45d3c83b01230d/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [org.jetbrains.anko:commons-base:0.10.8] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/77089fd1ba8bf5517c45d3c83b01230d/jetified-commons-base-0.10.8/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/465f0858eaea0299e058fdca0fd65851/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/465f0858eaea0299e058fdca0fd65851/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/0bbf8254c0625b5317496f5dc07ad453/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/0bbf8254c0625b5317496f5dc07ad453/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/64dd5fdd6550c1f642b550c1fe1cfd26/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/64dd5fdd6550c1f642b550c1fe1cfd26/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/2b4db0bf0666c34b1bc523cf05e6404a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/2b4db0bf0666c34b1bc523cf05e6404a/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d5650789c9f92ca0ebb83883c6a0b046/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d5650789c9f92ca0ebb83883c6a0b046/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/4e4ce2f92372a4115a376822389ff956/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/4e4ce2f92372a4115a376822389ff956/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/927e20b95426a1e2871e9dee56481e2a/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/927e20b95426a1e2871e9dee56481e2a/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d62d07501d800321c8c69a19a8451f5b/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d62d07501d800321c8c69a19a8451f5b/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/600ccc6b1bc78eee0246cde67e4048bd/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/600ccc6b1bc78eee0246cde67e4048bd/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6eeb12243c8e22a4e61b928e4c37fd3a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6eeb12243c8e22a4e61b928e4c37fd3a/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/f8ba508192e0973bb375e86a3e168321/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/f8ba508192e0973bb375e86a3e168321/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/29ce8af8242f4e2c75faf4677b90a4ee/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/29ce8af8242f4e2c75faf4677b90a4ee/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d5bb0efb8b3d009fefe3defe317358db/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/d5bb0efb8b3d009fefe3defe317358db/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/0d82c515694eaaf53e08f8707e16cdce/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/0d82c515694eaaf53e08f8707e16cdce/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/a912b255fee194282b1b7f60e6b7b521/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/a912b255fee194282b1b7f60e6b7b521/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/f2e30f7a739886282e4b4ce5b4fd76a1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/f2e30f7a739886282e4b4ce5b4fd76a1/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/189f60d93dd7330eb3642d4203df078e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/189f60d93dd7330eb3642d4203df078e/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/4b2ff6e3063fd60a121c527ee89c5ed4/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/4b2ff6e3063fd60a121c527ee89c5ed4/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6a17868b7ca9c0868711caac80132dd3/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6a17868b7ca9c0868711caac80132dd3/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/79c33b9d32c7a5b83766a23ddbe9bdfe/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/79c33b9d32c7a5b83766a23ddbe9bdfe/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/229808383e537bf4d68a74f49d429050/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/229808383e537bf4d68a74f49d429050/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/fe16bf712cebc531a64eb15ce7ac84dc/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/fe16bf712cebc531a64eb15ce7ac84dc/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8fb6f3edb4bffda69066004dc3e187d4/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8fb6f3edb4bffda69066004dc3e187d4/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/799a75db32cef13e1f7dafe1a6c76a82/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/799a75db32cef13e1f7dafe1a6c76a82/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/cec0f46f35098226695fd45d3a7fccff/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/cec0f46f35098226695fd45d3a7fccff/lifecycle-livedata-core-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3622c634232b448dc2c59da9419bde59/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3622c634232b448dc2c59da9419bde59/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8c684a6238dc3504852fa73d107ccfbf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8c684a6238dc3504852fa73d107ccfbf/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/830b1838a4b4d116cd678485e3289892/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/830b1838a4b4d116cd678485e3289892/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/5b7e2a780c1b97f8610dfe5442e48034/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/5b7e2a780c1b97f8610dfe5442e48034/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8e0c25e6f3abf580a2b1ee38a41b6c99/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/8e0c25e6f3abf580a2b1ee38a41b6c99/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3767bfdf888e88aa39f9b1d58f5bf959/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/3767bfdf888e88aa39f9b1d58f5bf959/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+		ADDED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79

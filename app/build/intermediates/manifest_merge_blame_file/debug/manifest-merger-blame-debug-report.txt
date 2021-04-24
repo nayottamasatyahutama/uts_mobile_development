@@ -1,0 +1,85 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="id.rdev.catatanpenjualan"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:6:5-67
+11-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:6:22-64
+12
+13    <application
+13-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:8:5-31:19
+14        android:allowBackup="false"
+14-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:9:9-36
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/6a17868b7ca9c0868711caac80132dd3/core-1.1.0/AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:icon="@mipmap/ic_launcher"
+17-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:10:9-43
+18        android:label="@string/app_name"
+18-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:11:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:12:9-54
+20        android:supportsRtl="true"
+20-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:13:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme"
+22-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:14:9-40
+23        android:usesCleartextTraffic="true" >
+23-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:15:9-44
+24        <activity android:name="com.nayottama.catatanpenjualansederhana.activity.report.ReportActivity" />
+24-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:17:9-116
+24-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:17:19-104
+25        <activity android:name="com.nayottama.catatanpenjualansederhana.activity.penjualan.PenjualanBarang" />
+25-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:18:9-111
+25-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:18:19-108
+26        <activity android:name="com.nayottama.catatanpenjualansederhana.activity.data_barang.DataBarangActivity" />
+26-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:19:9-116
+26-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:19:19-113
+27        <activity android:name="com.nayottama.catatanpenjualansederhana.activity.register.RegisterActivity" />
+27-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:20:9-111
+27-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:20:19-108
+28        <activity android:name="com.nayottama.catatanpenjualansederhana.activity.data_barang._add.AddBarangActivity" />
+28-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:21:9-120
+28-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:21:19-117
+29        <activity android:name="com.nayottama.catatanpenjualansederhana.activity.login.LoginActivity" >
+29-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:22:9-29:20
+29-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:22:19-102
+30            <intent-filter>
+30-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:23:13-28:29
+31                <action android:name="android.intent.action.VIEW" />
+31-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:24:17-69
+31-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:24:25-66
+32                <action android:name="android.intent.action.MAIN" />
+32-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:25:17-69
+32-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:25:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:27:17-77
+34-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:27:27-74
+35            </intent-filter>
+36        </activity>
+37        <activity android:name="com.nayottama.catatanpenjualansederhana.activity._main.MainActivity" />
+37-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:30:9-104
+37-->/home/nayottamasatya/Documents/Semester6/Mobile_Dev/CatatanPenjualan-20210423T044458Z-001/CatatanPenjualan/app/src/main/AndroidManifest.xml:30:19-101
+38
+39        <provider
+39-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
+40            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+40-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:24:13-79
+41            android:authorities="id.rdev.catatanpenjualan.lifecycle-process"
+41-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:25:13-69
+42            android:exported="false"
+42-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:26:13-37
+43            android:multiprocess="true" />
+43-->[androidx.lifecycle:lifecycle-process:2.1.0] /home/nayottamasatya/.gradle/caches/transforms-2/files-2.1/213bfb92e0661215e49288a2f93e786d/jetified-lifecycle-process-2.1.0/AndroidManifest.xml:27:13-40
+44    </application>
+45
+46</manifest>
